@@ -2,15 +2,18 @@
     color:#b3b3cf;
     text-align: center;
     font-size: 100px;
+    display: flex;
 }
 
 .ntxt{
     color:rgb(17, 63, 92);
     font-size: 25px;
+    display: flex;
 }
 
 .mtxt{
-    color:rgb(57, 80, 170);
+    color:rgb(42, 6, 61);
+    display: flex;
 }
 
 .ftxt{
@@ -25,6 +28,7 @@ ul{
 
 header{
     background-color: #7474b0;
+    display: flex;
 }
 
 .flex-container{
